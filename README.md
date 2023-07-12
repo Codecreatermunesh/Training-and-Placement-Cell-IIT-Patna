@@ -1,4 +1,4 @@
-# database_project
+# Training and Placement Cell, IIT Patna
 Created By:-
 Guide:-Prof. Samrat Mondal,
 Team size (3 Members):-
